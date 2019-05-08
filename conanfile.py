@@ -5,7 +5,7 @@ from conans import AutoToolsBuildEnvironment, ConanFile, tools
 
 class Re2cConan(ConanFile):
     name = "re2c"
-    version = "0.1"
+    version = "1.1"
     license = "<Put the package license here>"
     url = "https://github.com/skvadrik/re2c.git"
     description = "<Description of re2c here>"
